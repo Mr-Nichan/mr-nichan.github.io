@@ -21,9 +21,9 @@
 title: Nicklas Herrera Hansson
 email: nh222mr@student.lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The awesome page where I have the opportunity to put down my thoughts 
+  and express myself. Also to do the exercises I need to do to get through 
+  the course 1dv022 at the Linnaeus University. Enjoy!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://mr-nichan.github.io # the base hostname & protocol for your site, e.g. http://example.com
 github_username: Mr-Nichan
@@ -54,6 +54,4 @@ plugins:
 
 # Disqus Comments
 disqus:
-  # Leave shortname blank to disable comments site-wide.
-  # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
   shortname: nh222mr-ex1
