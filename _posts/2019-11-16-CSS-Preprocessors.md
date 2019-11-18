@@ -6,7 +6,7 @@ categories: 1dv022
 comments: true
 ---
 
-### Thoughts on using preprocessing CSS
+### Thoughts on using preprocessed CSS
 
 With the ability to preprocess the CSS you get a lot more freedom to shorten and simplify the code. To be able to use variables is alone a big deal for developers since it makes creating and maintaining so much easier. You can change the color theme of the whole project just by editing the variables, or use variables as arguments in mixins (Sass version of functions) to make it possible to include whole sections of code just by calling that mixin in however many places you like.
 
