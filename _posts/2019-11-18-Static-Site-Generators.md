@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Static Site Generators
-date: 2019-11-15 11:43:27 -0600
+date: 2019-11-18 15:13:53 -0600
 categories: 1dv022
 comments: true
 ---
